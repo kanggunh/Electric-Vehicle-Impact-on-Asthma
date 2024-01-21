@@ -1,2 +1,16 @@
-# Electric-Vehicle-Impact-on-Asthma
-COGS 108 Final Project
+## Electric Vehicle Impact on Asthma Visits in California
+
+**Contributors: Kang Gun Ham, Carolyn Evans, Kyuyeon Lee, Michelle Liu, Jianrui Zhang**  
+*This was a final project for the course "COGS 108 - Data Science in Practice" at UC San Diego.*  
+  
+Presentation Video link: https://www.youtube.com/watch?v=e97nte9lsUA
+
+### Abstract
+Our study aims to explore the correlation between the proportion of electric vehicles (EVs) among actively registered vehicles in California and the yearly frequency of asthma-related emergency department visits. As the global automotive industry undergoes a shift toward EVs, driven by regulations such as California's Advanced Clean Cars II, it becomes increasingly important to understand the health implications of this transition. Our hypothesis posits that the adoption of EVs and hybrid cars, driven by California laws and the resultant reduction in pollutants, will lead to a decline in asthma-related emergency visits. To test our hypothesis, we utilize datasets on asthma emergency visit rates and vehicle population trends from 2011 to 2019. We conduct exploratory data analysis and polynomial regression to discern potential relationships.
+
+In Section 1 of EDA, line plots visualize the evolution of asthma-related emergency visits and electric vehicle trends over the specified time frame. Initial observations suggest no direct correlation between asthma-related visits and specific fuel types, indicating a nuanced relationship. The line plots illustrate a significant increase in the raw number of electric vehicles, particularly battery electric cars, over the years. However, when considering proportions, there is a decrease in the proportion of non-electric and hybrid vehicles, while the proportions of battery electric and hybrid vehicles steadily increase.
+
+In Section 2 of EDA, we employ polynomial regression to further examine the relationship between electric vehicles and asthma-related emergency visits. The scatter plot showcases variability in the data, and the polynomial regression reveals a lack of a distinct pattern, indicating the absence of a straightforward relationship between the two variables. The graph suggests a weak positive correlation between the number of electric vehicles and the average number of asthma-related emergency visits, as indicated by the correlation coefficient. This finding challenges the hypothesis that increasing electric vehicle adoption directly leads to a reduction in asthma-related emergency visits, highlighting the need for further investigation and consideration of additional factors influencing public health outcomes. Our research contributes to the existing body of knowledge on electric vehicles and their potential health effects. Although our findings question the belief that the adoption of electric vehicles directly affects emergency visits for asthma, further investigation is necessary to understand the extent of the impact.
+
+**For the full report, check out the notebook file here: [Electric Vehicle Impact on Asthma Visits in California.ipynb](https://github.com/kanggunh/Electric-Vehicle-Impact-on-Asthma/blob/0dd21849290f24d9df31ec6f059b2f3e3970512b/Electric%20Vehicle%20Impact%20on%20Asthma%20Visits%20in%20California.ipynb)**
+
