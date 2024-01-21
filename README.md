@@ -1,7 +1,7 @@
 ## Electric Vehicle Impact on Asthma Visits in California
 
 **Contributors: Kang Gun Ham, Carolyn Evans, Kyuyeon Lee, Michelle Liu, Jianrui Zhang**  
-*This was a final project for the course "COGS 108 - Data Science in Practice" at UC San Diego.*  
+*This is a final project for the course "COGS 108 - Data Science in Practice" at UC San Diego.*  
   
 Presentation Video link: https://www.youtube.com/watch?v=e97nte9lsUA
 
